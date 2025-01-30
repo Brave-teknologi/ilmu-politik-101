@@ -40,7 +40,7 @@ const config: Config = {
                // Please change this to your repo.
                // Remove this to remove the "edit this page" links.
                editUrl:
-                  "https://github.com/Brave-teknologi/belajar-js/edit/main",
+                  "https://github.com/Brave-teknologi/ilmu-politik-101/edit/main",
                routeBasePath: "/",
             },
             theme: {
@@ -66,7 +66,7 @@ const config: Config = {
          items: [
             { to: "/blog", label: "Blog", position: "left" },
             {
-               href: "https://github.com/Brave-teknologi/belajar-js",
+               href: "https://github.com/Brave-teknologi/ilmu-politik-101",
                label: "GitHub",
                position: "right",
             },
@@ -110,7 +110,7 @@ const config: Config = {
                   },
                   {
                      label: "GitHub",
-                     href: "https://github.com/Brave-teknologi/belajar-js",
+                     href: "https://github.com/Brave-teknologi/ilmu-politik-101",
                   },
                ],
             },
